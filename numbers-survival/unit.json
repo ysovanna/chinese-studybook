@@ -1,0 +1,544 @@
+{
+ "slug": "numbers-survival",
+ "title_ko": "数字 · 出门生存句",
+ "title_en": "Numbers & Survival — shop, order, find your way",
+ "subtitle": "Count to ten, then the whole system opens",
+ "description": "Chinese numbers are a machine you learn once: count 1–10 and every price, time and phone number unlocks. Plus ordering, bargaining and finding the toilet — English + ខ្មែរ support, native audio on every line.",
+ "sections": [
+  {
+   "id": "one",
+   "ko": "一到十",
+   "en": "One to ten",
+   "color": "#0052A4"
+  },
+  {
+   "id": "big",
+   "ko": "大数",
+   "en": "Bigger numbers",
+   "color": "#00A84D"
+  },
+  {
+   "id": "money",
+   "ko": "价钱",
+   "en": "Money & prices",
+   "color": "#EF7C1C"
+  },
+  {
+   "id": "order",
+   "ko": "点单",
+   "en": "Ordering",
+   "color": "#996CAC"
+  },
+  {
+   "id": "find",
+   "ko": "找路",
+   "en": "Finding places",
+   "color": "#CD7C2F"
+  }
+ ],
+ "spine": {
+  "title": "The route · one afternoon out",
+  "note": "Learn 1–10 → build any number → ask a price → order a coffee → find the toilet. A whole afternoon outside, in ten lines."
+ },
+ "explain": {
+  "title": "The big picture",
+  "why": "After ten, Chinese numbers are pure Lego: 11 is 'ten-one', 20 is 'two-ten', 123 is 'one-hundred-two-ten-three'. No new words ever — just slots you already know.",
+  "tiles": [
+   {
+    "img": "img/x-count.svg",
+    "ko": "一二三四五六七八九十",
+    "en": "Ten sounds, that's the whole alphabet of numbers",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/x-ten1.svg",
+    "ko": "十一 = 10+1",
+    "en": "11–19: ten, then the digit",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/x-twenty.svg",
+    "ko": "二十 = 2×10",
+    "en": "20, 30, 40…: digit, then ten",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/c2-tag.svg",
+    "ko": "多少钱？",
+    "en": "Two words unlock every market",
+    "color": "#EF7C1C"
+   },
+   {
+    "img": "img/c3-want.svg",
+    "ko": "我要…",
+    "en": "'I want' orders anything, anywhere",
+    "color": "#996CAC"
+   },
+   {
+    "img": "img/x-hand2.svg",
+    "ko": "两 vs 二",
+    "en": "Two before things is liǎng, not èr",
+    "color": "#CD7C2F"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "one",
+   "img": "img/c1-nums.svg",
+   "flat": true,
+   "alt": "Ten tiles with the characters one through ten",
+   "hook": "一二三四五六七八九十",
+   "ko": "一 yī 二 èr 三 sān 四 sì 五 wǔ 六 liù 七 qī 八 bā 九 jiǔ 十 shí。",
+   "en": "One to ten. Tap Listen and repeat each in your head — the tones are the workout.",
+   "km": "មួយ ពីរ បី បួន ប្រាំ ប្រាំមួយ ប្រាំពីរ ប្រាំបី ប្តាំ ដប់ — សូរ គឺ ការ ហាត់។",
+   "audio": "audio/c1.mp3",
+   "kmaudio": "audio/km01.mp3"
+  },
+  {
+   "sec": "big",
+   "img": "img/x-ten1.svg",
+   "flat": true,
+   "alt": "Blocks: 10 + 1 snapping into 十一",
+   "hook": "十一 → 一百",
+   "ko": "十一 shíyī = 11，二十 èrshí = 20，一百 yìbǎi = 100。",
+   "en": "11 is 'ten-one', 20 is 'two-ten', 100 is 'one-hundred'. The machine never stops.",
+   "km": "១១ = ដប់+មួយ · ២០ = ពីរ×ដប់ · ១០០ = មួយរយ។",
+   "audio": "audio/c2.mp3",
+   "kmaudio": "audio/km02.mp3"
+  },
+  {
+   "sec": "big",
+   "img": "img/x-hand2.svg",
+   "flat": true,
+   "alt": "A hand showing two fingers with the character 两",
+   "hook": "两个",
+   "ko": "数东西用“两”：两个人 liǎng ge rén，不說二个人。",
+   "en": "Before counted things use 两 (liǎng): 'two people' is 两个人. 二 is for counting and math.",
+   "km": "មុន នាម ពាក្យ ប្រើ liǎng៖ មនុស្ស ពីរ នាក់។",
+   "audio": "audio/c3.mp3",
+   "kmaudio": "audio/km03.mp3"
+  },
+  {
+   "sec": "money",
+   "img": "img/c2-tag.svg",
+   "flat": true,
+   "alt": "A price tag with a yuan sign and a question mark",
+   "hook": "多少钱？",
+   "ko": "这个多少钱？Zhège duōshao qián?",
+   "en": "How much is this? — the two magic words of every market in China.",
+   "km": "តើ នេះ ថ្លៃ ប៉ុន្មាន?",
+   "audio": "audio/c4.mp3",
+   "kmaudio": "audio/km04.mp3"
+  },
+  {
+   "sec": "money",
+   "img": "img/x-coins.svg",
+   "flat": true,
+   "alt": "A coin and a banknote with the character 块",
+   "hook": "八十块",
+   "ko": "八十块 bāshí kuài = ¥80。“块”是口语的“元”。",
+   "en": "Eighty kuài = ¥80. Spoken Chinese says 块 where prices print 元.",
+   "km": "យួន ប៉ុន = ៨០ យួន។",
+   "audio": "audio/c5.mp3",
+   "kmaudio": "audio/km05.mp3"
+  },
+  {
+   "sec": "order",
+   "img": "img/c3-want.svg",
+   "flat": true,
+   "alt": "A coffee cup with an arrow from the words 我要",
+   "hook": "我要…",
+   "ko": "我要一杯咖啡。Wǒ yào yì bēi kāfēi.",
+   "en": "I'd like one cup of coffee. Swap in anything: 我要茶, 我要水.",
+   "km": "ខ្ញុំ ចង់ បាន កាហ្វេ មួយ កែវ។",
+   "audio": "audio/c6.mp3",
+   "kmaudio": "audio/km06.mp3"
+  },
+  {
+   "sec": "find",
+   "img": "img/c4-toilet.svg",
+   "flat": true,
+   "alt": "A door with a WC sign and a question mark",
+   "hook": "洗手间在哪儿？",
+   "ko": "请问，洗手间在哪儿？Qǐng wèn, xǐshǒujiān zài nǎr?",
+   "en": "Excuse me, where is the toilet? 在 = at, 哪儿 = where.",
+   "km": "សុំ ទោស បន្ទប់ ទឹក នៅ ឯណា?",
+   "audio": "audio/c7.mp3",
+   "kmaudio": "audio/km07.mp3"
+  },
+  {
+   "sec": "find",
+   "img": "img/c5-phone.svg",
+   "flat": true,
+   "alt": "A phone screen showing digits grouped in threes",
+   "hook": "电话号码",
+   "ko": "电话号码一个数字一个数字读：138，0201。",
+   "en": "Phone numbers are read digit by digit — just the ten sounds you already know.",
+   "km": "លេខ ទូរស័ព្ទ អាន ម្តង មួយ លេខ។",
+   "audio": "audio/c8.mp3",
+   "kmaudio": "audio/km08.mp3"
+  }
+ ],
+ "qa_note": "Recall the answer in your head first, then tap to check and listen.",
+ "qa": [
+  {
+   "title": "Traps · read these first",
+   "small": "What learners get wrong",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "“十”和“四”老听混，怎么办？",
+     "qen": "I keep confusing shí (10) and sì (4). Help?",
+     "qaudio": "audio/q1.mp3",
+     "a": "十是第二声，往上走；四是第四声，往下砸。用手画音高。",
+     "aen": "十 rises (tone 2), 四 falls hard (tone 4). Draw the pitch in the air with your hand while listening.",
+     "akm": "ដប់ សូរ ឡើង លើ · បួន សូរ ចុះ ក្រោម។",
+     "why": "They differ only by tone, so drill them as a minimal pair — ten times listening beats ten rules.",
+     "audio": "audio/a1.mp3",
+     "kaudio": "audio/km09.mp3"
+    },
+    {
+     "q": "什么时候用“两”，什么时候用“二”？",
+     "qen": "When 两 and when 二?",
+     "qaudio": "audio/q2.mp3",
+     "a": "东西前用两：两个人、两杯。数数和电话号码用二。",
+     "aen": "两 before counted things (两个人, 两杯); 二 for counting sequences and phone numbers.",
+     "akm": "liǎng ដាក់ មុន នាម (ពីរ នាក់) · èr សម្រាប់ នាប់ និង លេខ ទូរស័ព្ទ។",
+     "audio": "audio/a2.mp3",
+     "kaudio": "audio/km10.mp3"
+    },
+    {
+     "q": "价格说“块”还是“元”？",
+     "qen": "Do people say kuài or yuán for prices?",
+     "qaudio": "audio/q3.mp3",
+     "a": "口语说块，菜单写元。意思一样：一百块 = 100 元。",
+     "aen": "Spoken: 块. Printed menus: 元. Same money — 一百块 = ¥100.",
+     "akm": "និយាយ ប្រើ kuài · សរសេរ ប្រើ yuán។ តម្លៃ ដូចគ្នា។",
+     "audio": "audio/a3.mp3",
+     "kaudio": "audio/km11.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Real conversations",
+   "small": "What will actually happen",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "这个多少钱？——八十块。",
+     "qen": "How much? — Eighty yuan.",
+     "qaudio": "audio/q4.mp3",
+     "a": "太贵了！便宜一点，行吗？",
+     "aen": "Too expensive! A little cheaper, OK? (markets: always ask once, smiling)",
+     "akm": "ថ្លៃ ពេក! សូម បញ្ចុះ តម្លៃ បន្តិច បាន ទេ?",
+     "audio": "audio/a4.mp3",
+     "kaudio": "audio/km12.mp3"
+    },
+    {
+     "q": "你要几个？",
+     "qen": "How many do you want?",
+     "qaudio": "audio/q5.mp3",
+     "a": "两个，谢谢。",
+     "aen": "Two, please. (number + 个 + nothing — the default measure word)",
+     "akm": "យក ពីរ យ៉ាង អរគុណ។",
+     "audio": "audio/a5.mp3",
+     "kaudio": "audio/km13.mp3"
+    },
+    {
+     "q": "现在几点？",
+     "qen": "What time is it now?",
+     "qaudio": "audio/q6.mp3",
+     "a": "现在三点。三点一刻 / 三点半。",
+     "aen": "It's three. 三点一刻 = 3:15, 三点半 = 3:30.",
+     "akm": "ម៉ោង បី។ បី ម៉ោង ជាតិ (15 នាទី) / បី ម៉ោង កន្លះ (30 នាទី)។",
+     "audio": "audio/a6.mp3",
+     "kaudio": "audio/km14.mp3"
+    }
+   ]
+  },
+  {
+   "title": "When you get stuck",
+   "small": "Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "太贵了。",
+     "en": "Too expensive.",
+     "km": "ថ្លៃ ពេក។",
+     "audio": "audio/s1.mp3",
+     "kmaudio": "audio/km15.mp3"
+    },
+    {
+     "ko": "好吃！",
+     "en": "Delicious!",
+     "km": "ឆ្ងាញ់ ណាស់!",
+     "audio": "audio/s2.mp3",
+     "kmaudio": "audio/km16.mp3"
+    },
+    {
+     "ko": "我听不懂。",
+     "en": "I don't understand (what I hear).",
+     "km": "ខ្ញុំ មិន យល់ ទេ។",
+     "audio": "audio/s3.mp3",
+     "kmaudio": "audio/km17.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Patterns · the number machine",
+   "small": "Three slots, infinite numbers",
+   "kind": "gram",
+   "items": [
+    {
+     "q": "三 + 个 + 人",
+     "qen": "Pattern: Number + measure word + noun — three people.",
+     "qaudio": "audio/g1.mp3",
+     "a": "两杯水、三个人、四个苹果。",
+     "aen": "Two cups of water, three people, four apples. 个 works when you're unsure.",
+     "akm": "ទឹក ពីរ កែវ · មនុស្ស បី នាក់។",
+     "audio": "audio/ga1.mp3",
+     "kaudio": "audio/km18.mp3"
+    },
+    {
+     "q": "现在三点。",
+     "qen": "Pattern: time words are just numbers — 点 o'clock, 半 half.",
+     "qaudio": "audio/g2.mp3",
+     "a": "八点上课，十二点吃饭。",
+     "aen": "Class at 8, lunch at 12. No verb needed.",
+     "akm": "ចូល រៀន ម៉ោង ប្រាំបី (8)។ ញ៉ាំ អាហារ ម៉ោង ដប់ពីរ (12)។",
+     "audio": "audio/ga2.mp3",
+     "kaudio": "audio/km19.mp3"
+    },
+    {
+     "q": "洗手间在哪儿？",
+     "qen": "Pattern: Thing + 在哪儿? = 'Where is …?'",
+     "qaudio": "audio/g3.mp3",
+     "a": "厕所在哪儿？地铁站在哪儿？",
+     "aen": "Where's the toilet? Where's the metro station?",
+     "akm": "បន្ទប់ ទឹក នៅ ឯណា? ស្ថានីយ រថភ្លើង ក្រោម ដី នៅ ឯណា?",
+     "audio": "audio/ga3.mp3",
+     "kaudio": "audio/km20.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "1–10 · the whole alphabet",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "一 yī",
+     "en": "one",
+     "km": "មួយ",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "二 èr",
+     "en": "two (counting)",
+     "km": "ពីរ",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "三 sān",
+     "en": "three",
+     "km": "បី",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "四 sì",
+     "en": "four",
+     "km": "បួន",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "五 wǔ",
+     "en": "five",
+     "km": "ប្រាំ",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "六 liù",
+     "en": "six",
+     "km": "ប្រាំមួយ",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "ko": "七 qī",
+     "en": "seven",
+     "km": "ប្រាំពីរ",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "八 bā",
+     "en": "eight",
+     "km": "ប្រាំបី",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "九 jiǔ",
+     "en": "nine",
+     "km": "ប្តាំ",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "十 shí",
+     "en": "ten",
+     "km": "ដប់",
+     "audio": "audio/v10.mp3"
+    }
+   ]
+  },
+  {
+   "title": "The machine · bigger numbers",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "十一 shíyī",
+     "en": "eleven (ten-one)",
+     "km": "ដប់មួយ",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "二十 èrshí",
+     "en": "twenty (two-ten)",
+     "km": "យីរ (ពីរដប់)",
+     "audio": "audio/v12.mp3"
+    },
+    {
+     "ko": "一百 yìbǎi",
+     "en": "one hundred",
+     "km": "មួយរយ",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "一千 yìqiān",
+     "en": "one thousand",
+     "km": "មួយពាន់",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "两 liǎng",
+     "en": "two (before things)",
+     "km": "ពីរ (មុន នាម)",
+     "audio": "audio/v15.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Money · at the stall",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "钱 qián",
+     "en": "money",
+     "km": "លុយ",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "块 kuài",
+     "en": "yuan (spoken)",
+     "km": "យន (និយាយ)",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "元 yuán",
+     "en": "yuan (printed)",
+     "km": "យន (សរសេរ)",
+     "audio": "audio/v18.mp3"
+    },
+    {
+     "ko": "多少钱 duōshao qián",
+     "en": "how much?",
+     "km": "ថ្លៃ ប៉ុន្មាន?",
+     "audio": "audio/v19.mp3"
+    },
+    {
+     "ko": "贵 guì",
+     "en": "expensive",
+     "km": "ថ្លៃ",
+     "audio": "audio/v20.mp3"
+    },
+    {
+     "ko": "便宜 piányi",
+     "en": "cheap",
+     "km": "ថោក",
+     "audio": "audio/v21.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Out and about",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "要 yào",
+     "en": "to want",
+     "km": "ចង់",
+     "audio": "audio/v22.mp3"
+    },
+    {
+     "ko": "咖啡 kāfēi",
+     "en": "coffee",
+     "km": "កាហ្វេ",
+     "audio": "audio/v23.mp3"
+    },
+    {
+     "ko": "茶 chá",
+     "en": "tea",
+     "km": "តែ",
+     "audio": "audio/v24.mp3"
+    },
+    {
+     "ko": "好吃 hǎochī",
+     "en": "tasty",
+     "km": "ឆ្ងាញ់",
+     "audio": "audio/v25.mp3"
+    },
+    {
+     "ko": "洗手间 xǐshǒujiān",
+     "en": "toilet, washroom",
+     "km": "បន្ទប់ ទឹក",
+     "audio": "audio/v26.mp3"
+    },
+    {
+     "ko": "这儿 / 那儿 zhèr / nàr",
+     "en": "here / there",
+     "km": "ទីនេះ / ទីនោះ",
+     "audio": "audio/v27.mp3"
+    }
+   ]
+  }
+ ],
+ "full_title": "The text · an afternoon out, start to finish",
+ "credit": "Numbers and phrases follow HSK-1 / Yoyo Chinese Beginner Courses Glossary (cdn.yoyochinese.com) and hskacademy level-1 material. Khmer support checked against the Wikivoyage Khmer phrasebook. Verified 2026-11-09.",
+ "published": "2026-11-11",
+ "full": [
+  {
+   "title": "一到十 · One to ten",
+   "ko": "一 yī 二 èr 三 sān 四 sì 五 wǔ 六 liù 七 qī 八 bā 九 jiǔ 十 shí。",
+   "en": "One to ten. Tap Listen and repeat each in your head — the tones are the workout."
+  },
+  {
+   "title": "大数 · Bigger numbers",
+   "ko": "十一 shíyī = 11，二十 èrshí = 20，一百 yìbǎi = 100。 数东西用“两”：两个人 liǎng ge rén，不說二个人。",
+   "en": "11 is 'ten-one', 20 is 'two-ten', 100 is 'one-hundred'. The machine never stops. Before counted things use 两 (liǎng): 'two people' is 两个人. 二 is for counting and math."
+  },
+  {
+   "title": "价钱 · Money & prices",
+   "ko": "这个多少钱？Zhège duōshao qián? 八十块 bāshí kuài = ¥80。“块”是口语的“元”。",
+   "en": "How much is this? — the two magic words of every market in China. Eighty kuài = ¥80. Spoken Chinese says 块 where prices print 元."
+  },
+  {
+   "title": "点单 · Ordering",
+   "ko": "我要一杯咖啡。Wǒ yào yì bēi kāfēi.",
+   "en": "I'd like one cup of coffee. Swap in anything: 我要茶, 我要水."
+  },
+  {
+   "title": "找路 · Finding places",
+   "ko": "请问，洗手间在哪儿？Qǐng wèn, xǐshǒujiān zài nǎr? 电话号码一个数字一个数字读：138，0201。",
+   "en": "Excuse me, where is the toilet? 在 = at, 哪儿 = where. Phone numbers are read digit by digit — just the ten sounds you already know."
+  }
+ ]
+}

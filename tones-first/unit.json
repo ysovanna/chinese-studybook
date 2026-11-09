@@ -1,0 +1,459 @@
+{
+ "slug": "tones-first",
+ "title_ko": "声调 · 四声",
+ "title_en": "Tones First — the fast track starts here",
+ "subtitle": "Four tones, one syllable, instant Chinese",
+ "description": "The one-hour foundation for speaking Mandarin: the four tones plus neutral, tone-pair drills, the tricky zh/ch/sh/r sounds and your first sentences — with English and Khmer support and native audio on every line.",
+ "sections": [
+  {
+   "id": "four",
+   "ko": "四声",
+   "en": "The four tones",
+   "color": "#0052A4"
+  },
+  {
+   "id": "pairs",
+   "ko": "组合",
+   "en": "Tone pairs",
+   "color": "#00A84D"
+  },
+  {
+   "id": "tricky",
+   "ko": "难音",
+   "en": "Tricky sounds",
+   "color": "#996CAC"
+  },
+  {
+   "id": "sent",
+   "ko": "句子",
+   "en": "First sentences",
+   "color": "#EF7C1C"
+  }
+ ],
+ "spine": {
+  "title": "The route · your first hour",
+  "note": "Hear the four tones on one syllable, glue them into real pairs, fix the sounds English doesn't have, then speak full sentences."
+ },
+ "explain": {
+  "title": "The big picture",
+  "why": "Mandarin uses pitch to tell words apart, so tones are not decoration — they ARE the word. Learn the four contours on one syllable and you can pronounce any pinyin you ever meet.",
+  "tiles": [
+   {
+    "img": "img/x-marks.svg",
+    "ko": "ā á ǎ à",
+    "en": "The mark above the vowel is the tone",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/t1-flat.svg",
+    "ko": "妈 mā",
+    "en": "Tone 1: high and flat, like a held note",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/t2-rise.svg",
+    "ko": "麻 má",
+    "en": "Tone 2: rises, like 'What?'",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/t3-dip.svg",
+    "ko": "马 mǎ",
+    "en": "Tone 3: dips low, the slowest one",
+    "color": "#996CAC"
+   },
+   {
+    "img": "img/t4-fall.svg",
+    "ko": "骂 mà",
+    "en": "Tone 4: falls hard, like 'No!'",
+    "color": "#EF7C1C"
+   },
+   {
+    "img": "img/x-neutral.svg",
+    "ko": "吗 ma",
+    "en": "Neutral tone: short and light",
+    "color": "#CD7C2F"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "four",
+   "img": "img/c1-ma.svg",
+   "flat": true,
+   "alt": "Four contour lines over the syllable ma with a horse icon",
+   "hook": "妈麻马骂",
+   "ko": "妈 mā · 麻 má · 马 mǎ · 骂 mà — one syllable, four different words.",
+   "en": "mā mother · má hemp · mǎ horse · mà to scold. The tone changes the word.",
+   "km": "ម៉ា ទាំងបួនសូរ៖ mā ម្ដាយ · má ស្ពៃ · mǎ សេះ · mà ចំហាល។",
+   "audio": "audio/c1.mp3",
+   "kmaudio": "audio/km01.mp3"
+  },
+  {
+   "sec": "four",
+   "img": "img/x-neutral.svg",
+   "flat": true,
+   "alt": "A small light feather over a flat line",
+   "hook": "轻声",
+   "ko": "吗 ma 是轻声：又短又轻。",
+   "en": "The neutral tone (ma) is short and light — no mark above the vowel.",
+   "km": "សូរខ្សោយ ma ខ្លី និងស្រាល។",
+   "audio": "audio/c2.mp3",
+   "kmaudio": "audio/km02.mp3"
+  },
+  {
+   "sec": "pairs",
+   "img": "img/c3-pairs.svg",
+   "flat": true,
+   "alt": "Two linked tiles showing tone contours 3+3 and 4+4",
+   "hook": "你好",
+   "ko": "两个第三声连在一起，第一个读第二声：你好 → ní hǎo。",
+   "en": "When two third tones meet, the first becomes a second: 你好 is read 'ní hǎo'.",
+   "km": "បើសូរទី៣ ពីរជួបគ្នា សូរទីមួយ អានជាសូរទី២។",
+   "audio": "audio/c3.mp3",
+   "kmaudio": "audio/km03.mp3"
+  },
+  {
+   "sec": "tricky",
+   "img": "img/c4-zhchsh.svg",
+   "flat": true,
+   "alt": "A side-view mouth with the tongue curled up",
+   "hook": "zh ch sh r",
+   "ko": "zh、ch、sh、r：舌尖卷起来，靠近上颚。",
+   "en": "For zh, ch, sh and r curl the tip of your tongue up toward the roof of your mouth.",
+   "km": "សម្រាប់ zh ch sh r ងូញអណ្តាតឡើងលើ។",
+   "audio": "audio/c4.mp3",
+   "kmaudio": "audio/km04.mp3"
+  },
+  {
+   "sec": "sent",
+   "img": "img/c5-blocks.svg",
+   "flat": true,
+   "alt": "Three word blocks snapping together: subject, verb, object",
+   "hook": "主谓宾",
+   "ko": "中文句子和英语一样：主语 + 动词 + 宾语，动词不变。",
+   "en": "Chinese word order is Subject + Verb + Object like English — and verbs never change form.",
+   "km": "ប្រយោគចិន៖ មេរៀន + កិរិយាសព្ទ + វត្ថុ ដូចភាសាអង់គ្លេស ហើយកិរិយាសព្ទមិនប្តូរទេ។",
+   "audio": "audio/c5.mp3",
+   "kmaudio": "audio/km05.mp3"
+  },
+  {
+   "sec": "sent",
+   "img": "img/c6-ma.svg",
+   "flat": true,
+   "alt": "A statement tile with a question-mark chip labelled 吗 snapping on the end",
+   "hook": "吗",
+   "ko": "陈述句 + 吗 = 一般疑问句：你喜欢咖啡 → 你喜欢咖啡吗？",
+   "en": "Add 吗 to the end of any statement and it becomes a yes/no question.",
+   "km": "ដាក់ ma នៅចុងប្រយោគ ក្លាយជាសំណួរ បាទ/ចាស។",
+   "audio": "audio/c6.mp3",
+   "kmaudio": "audio/km06.mp3"
+  }
+ ],
+ "qa_note": "Recall the answer in your head first, then tap to check and listen.",
+ "qa": [
+  {
+   "title": "Traps · read these first",
+   "small": "What learners get wrong",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "可以不学声调，只学拼音吗？",
+     "qen": "Can I skip tones and just learn pinyin?",
+     "qaudio": "audio/q1.mp3",
+     "a": "不行。妈、马不一样；声调错了，意思就变了。",
+     "aen": "No. mā (mother) and mǎ (horse) are different words — wrong tone, wrong meaning.",
+     "akm": "មិនបានទេ។ mā ម្ដាយ និង mǎ សេះ ជាពាក្យខុសគ្នា។",
+     "why": "Tones are part of the word itself, like a letter. Learners who skip them speak years without being understood.",
+     "audio": "audio/a1.mp3",
+     "kaudio": "audio/km07.mp3"
+    },
+    {
+     "q": "声调说错了，别人听得懂吗？",
+     "qen": "If I get a tone wrong, will people understand me?",
+     "qaudio": "audio/q2.mp3",
+     "a": "大多数时候能听懂。别怕，先开口，慢慢就准了。",
+     "aen": "Usually yes — context carries you. Speak first; accuracy comes with practice.",
+     "akm": "ភាគច្រើន គេយល់។ កុំខ្លាច គ្រាន់តែនិយាយមុន។",
+     "why": "Native listeners use context constantly. Perfection is not the gate to conversation — speaking is.",
+     "audio": "audio/a2.mp3",
+     "kaudio": "audio/km08.mp3"
+    },
+    {
+     "q": "要先会汉字才能开口说吗？",
+     "qen": "Do I need characters before I can speak?",
+     "qaudio": "audio/q3.mp3",
+     "a": "不用。口语用拼音就能开始，汉字可以慢慢来。",
+     "aen": "No. For speaking, pinyin is enough to start; learn characters slowly in parallel.",
+     "akm": "មិនចាំបាច់ទេ។ សម្រាប់និយាយ pinyin គ្រប់គ្រាន់ដើម្បីចាប់ផ្តើម។",
+     "why": "The fast track is sound-first: pinyin + tones + phrases. Characters pay off later, for reading.",
+     "audio": "audio/a3.mp3",
+     "kaudio": "audio/km09.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Real questions",
+   "small": "About your daily practice",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "每天练多久，进步最快？",
+     "qen": "How long per day is the fastest progress?",
+     "qaudio": "audio/q4.mp3",
+     "a": "每天十五分钟，比一周一次两小时有效。",
+     "aen": "Fifteen focused minutes every day beats two hours once a week.",
+     "akm": "ប្រាំមួយនាទីរាល់ថ្ងៃ ល្អជាងពីរម៉ោងមួយសប្តាហ៍។",
+     "audio": "audio/a4.mp3",
+     "kaudio": "audio/km10.mp3"
+    },
+    {
+     "q": "哪个声调最难？",
+     "qen": "Which tone is the hardest?",
+     "qaudio": "audio/q5.mp3",
+     "a": "对英语母语者，第二声和第三声最容易混。多听对比。",
+     "aen": "For English speakers, tones 2 and 3 blur together most. Drill them as minimal pairs.",
+     "akm": "សម្រាប់អ្នកនិយាយអង់គ្លេស សូរទី២ និងទី៣ ពិបាកជាងគេ។",
+     "audio": "audio/a5.mp3",
+     "kaudio": "audio/km11.mp3"
+    }
+   ]
+  },
+  {
+   "title": "When you get stuck",
+   "small": "Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "请说慢一点儿。",
+     "en": "Please speak a little slower.",
+     "km": "សូមនិយាយយឺតៗបន្តិច។",
+     "audio": "audio/s1.mp3",
+     "kmaudio": "audio/km12.mp3"
+    },
+    {
+     "ko": "这个词是什么意思？",
+     "en": "What does this word mean?",
+     "km": "ពាក្យនេះ មានន័យថាអ្វី?",
+     "audio": "audio/s2.mp3",
+     "kmaudio": "audio/km13.mp3"
+    },
+    {
+     "ko": "我还不会说。",
+     "en": "I can't say that yet.",
+     "km": "ខ្ញុំ និយាយ មិនទាន់ បាន ទេ។",
+     "audio": "audio/s3.mp3",
+     "kmaudio": "audio/km14.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Patterns · the grammar you need today",
+   "small": "Three patterns, zero tables",
+   "kind": "gram",
+   "items": [
+    {
+     "q": "我喜欢咖啡。",
+     "qen": "Pattern: Subject + Verb + Object — 'I like coffee.'",
+     "qaudio": "audio/g1.mp3",
+     "a": "他喜欢茶。我们学习中文。",
+     "aen": "He likes tea. We study Chinese. The verb never changes.",
+     "akm": "គាត់ ចូលចិត្ត តែ។ យើង រៀន ភាសាចិន។",
+     "audio": "audio/ga1.mp3",
+     "kaudio": "audio/km15.mp3"
+    },
+    {
+     "q": "你喜欢咖啡吗？",
+     "qen": "Pattern: statement + 吗 = yes/no question.",
+     "qaudio": "audio/g2.mp3",
+     "a": "你喜欢茶吗？——喜欢 / 不喜欢。",
+     "aen": "Do you like tea? — Yes (like) / No (don't like). Answer with the verb itself.",
+     "akm": "តើ អ្នក ចូលចិត្ត តែ ទេ? — ចូលចិត្ត / មិន ចូលចិត្ត។",
+     "audio": "audio/ga2.mp3",
+     "kaudio": "audio/km16.mp3"
+    },
+    {
+     "q": "我不喜欢茶。",
+     "qen": "Pattern: put 不 before the verb to say no.",
+     "qaudio": "audio/g3.mp3",
+     "a": "我不是老师。他不去。",
+     "aen": "I'm not a teacher. He doesn't go. 不 sits right before the verb.",
+     "akm": "ខ្ញុំ មិន មែន គ្រូ ទេ។ គាត់ មិន ទៅ ទេ។",
+     "audio": "audio/ga3.mp3",
+     "kaudio": "audio/km17.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "The ma family · hear the four tones",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "妈 mā",
+     "en": "mother",
+     "km": "ម្ដាយ",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "麻 má",
+     "en": "hemp; numb",
+     "km": "ស្ពៃ (ស្ពៃជូរ)",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "马 mǎ",
+     "en": "horse",
+     "km": "សេះ",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "骂 mà",
+     "en": "to scold",
+     "km": "ches (ចំហាល)",
+     "audio": "audio/v04.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Tone words in real pairs",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "你好 nǐ hǎo",
+     "en": "hello (3+3 → reads 2+3)",
+     "km": "សួស្តី",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "谢谢 xiè xie",
+     "en": "thank you (4 + neutral)",
+     "km": "អរគុណ",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "ko": "中国 Zhōngguó",
+     "en": "China (1+2)",
+     "km": "ប្រទេសចិន",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "很便宜 hěn piányi",
+     "en": "very cheap (3+2)",
+     "km": "ថ្លៃ តិច ណាស់",
+     "audio": "audio/v08.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Tricky consonants · zh ch sh r ü",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "是 shì",
+     "en": "to be (curl the tongue)",
+     "km": "មែន",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "吃 chī",
+     "en": "to eat (a puff of air)",
+     "km": "បរិភោគ",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "十 shí",
+     "en": "ten (rising + curl)",
+     "km": "ដប់",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "日 rì",
+     "en": "day; sun (like French j)",
+     "km": "ថ្ងៃ",
+     "audio": "audio/v12.mp3"
+    },
+    {
+     "ko": "女 nǚ",
+     "en": "woman (say 'ee' with round lips)",
+     "km": "ស្ត្រី",
+     "audio": "audio/v13.mp3"
+    }
+   ]
+  },
+  {
+   "title": "First-sentence words",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "我 wǒ",
+     "en": "I, me",
+     "km": "ខ្ញុំ",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "你 nǐ",
+     "en": "you",
+     "km": "អ្នក",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "他 tā",
+     "en": "he, him",
+     "km": "គាត់ (ប្រុស)",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "喜欢 xǐhuan",
+     "en": "to like",
+     "km": "ចូលចិត្ត",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "学习 xuéxí",
+     "en": "to study",
+     "km": "រៀន",
+     "audio": "audio/v18.mp3"
+    },
+    {
+     "ko": "咖啡 kāfēi",
+     "en": "coffee",
+     "km": "កាហ្វេ",
+     "audio": "audio/v19.mp3"
+    },
+    {
+     "ko": "茶 chá",
+     "en": "tea",
+     "km": "តែ",
+     "audio": "audio/v20.mp3"
+    }
+   ]
+  }
+ ],
+ "full_title": "The text · tones, start to finish",
+ "credit": "Sources: Yoyo Chinese — What is Pinyin? (yoyochinese.com/pinyin) and Beginner Courses Glossary PDF (cdn.yoyochinese.com); Chinese Zero to Hero — Tones Matter (chinesezerotohero.com). Khmer support checked against the Wikivoyage Khmer phrasebook. Verified 2026-11-09.",
+ "published": "2026-11-09",
+ "full": [
+  {
+   "title": "四声 · The four tones",
+   "ko": "妈 mā · 麻 má · 马 mǎ · 骂 mà — one syllable, four different words. 吗 ma 是轻声：又短又轻。",
+   "en": "mā mother · má hemp · mǎ horse · mà to scold. The tone changes the word. The neutral tone (ma) is short and light — no mark above the vowel."
+  },
+  {
+   "title": "组合 · Tone pairs",
+   "ko": "两个第三声连在一起，第一个读第二声：你好 → ní hǎo。",
+   "en": "When two third tones meet, the first becomes a second: 你好 is read 'ní hǎo'."
+  },
+  {
+   "title": "难音 · Tricky sounds",
+   "ko": "zh、ch、sh、r：舌尖卷起来，靠近上颚。",
+   "en": "For zh, ch, sh and r curl the tip of your tongue up toward the roof of your mouth."
+  },
+  {
+   "title": "句子 · First sentences",
+   "ko": "中文句子和英语一样：主语 + 动词 + 宾语，动词不变。 陈述句 + 吗 = 一般疑问句：你喜欢咖啡 → 你喜欢咖啡吗？",
+   "en": "Chinese word order is Subject + Verb + Object like English — and verbs never change form. Add 吗 to the end of any statement and it becomes a yes/no question."
+  }
+ ]
+}

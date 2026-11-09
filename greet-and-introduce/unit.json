@@ -1,0 +1,533 @@
+{
+ "slug": "greet-and-introduce",
+ "title_ko": "打招呼 · 介绍自己",
+ "title_en": "Greetings & Introductions — speak on day one",
+ "subtitle": "Meet someone, say your name, leave politely",
+ "description": "The ten phrases that open every Chinese conversation: hello, how are you, your name, nice to meet you, thanks and goodbye — English + ខ្មែរ support, native Mandarin audio on every line.",
+ "sections": [
+  {
+   "id": "meet",
+   "ko": "见面",
+   "en": "Saying hello",
+   "color": "#0052A4"
+  },
+  {
+   "id": "name",
+   "ko": "名字",
+   "en": "Names",
+   "color": "#00A84D"
+  },
+  {
+   "id": "reply",
+   "ko": "回答",
+   "en": "Answering",
+   "color": "#996CAC"
+  },
+  {
+   "id": "bye",
+   "ko": "再见",
+   "en": "Saying goodbye",
+   "color": "#EF7C1C"
+  },
+  {
+   "id": "polite",
+   "ko": "礼貌",
+   "en": "Being polite",
+   "color": "#CD7C2F"
+  }
+ ],
+ "spine": {
+  "title": "The route · one first meeting",
+  "note": "Greet → ask the name → answer about yourself → say nice to meet you → part politely. One conversation, in order."
+ },
+ "explain": {
+  "title": "The big picture",
+  "why": "A first meeting in Chinese is a fixed little dance of five moves. Learn one line per move and you can hold the whole conversation — no grammar needed yet.",
+  "tiles": [
+   {
+    "img": "img/x-hello.svg",
+    "ko": "你好",
+    "en": "One hello fits almost every situation",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/x-formal.svg",
+    "ko": "您",
+    "en": "Add 心 at the bottom = respect",
+    "color": "#CD7C2F"
+   },
+   {
+    "img": "img/x-tag.svg",
+    "ko": "我叫…",
+    "en": "State your name with 叫",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/x-handshake.svg",
+    "ko": "很高兴认识你",
+    "en": "The standard 'nice to meet you'",
+    "color": "#996CAC"
+   },
+   {
+    "img": "img/x-wave.svg",
+    "ko": "再见 / 明天见",
+    "en": "Bye, or the friendlier 'see you tomorrow'",
+    "color": "#EF7C1C"
+   },
+   {
+    "img": "img/x-tea.svg",
+    "ko": "请",
+    "en": "One word offers, invites and softens",
+    "color": "#CD7C2F"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "meet",
+   "img": "img/c1-hello.svg",
+   "flat": true,
+   "alt": "Two flat figures facing each other with a speech bubble",
+   "hook": "你好",
+   "ko": "你好！Nǐ hǎo — 最常用的打招呼。",
+   "en": "Hello! Works with almost anyone, anywhere.",
+   "km": "សួស្តី! ប្រើបានជិតគ្រប់កន្លែង។",
+   "audio": "audio/c1.mp3",
+   "kmaudio": "audio/km01.mp3"
+  },
+  {
+   "sec": "meet",
+   "img": "img/x-formal.svg",
+   "flat": true,
+   "alt": "A figure with a heart under the character 您",
+   "hook": "您好",
+   "ko": "对长辈、客户说：您好！Nín hǎo。",
+   "en": "Say 您好 (nín hǎo) to elders, teachers and customers — it carries respect.",
+   "km": "ចំពោះ មនុស្សចាស់ គ្រូ ឬ អតិថិជន៖ ជម្រាបសួរ។",
+   "audio": "audio/c2.mp3",
+   "kmaudio": "audio/km02.mp3"
+  },
+  {
+   "sec": "meet",
+   "img": "img/c2-how.svg",
+   "flat": true,
+   "alt": "A speech bubble with an upward arrow and a heart",
+   "hook": "你好吗",
+   "ko": "你好吗？Nǐ hǎo ma — 问别人怎么样。",
+   "en": "How are you? A real question, but friends often skip it.",
+   "km": "តើ អ្នក សុខសប្បាយ ទេ?",
+   "audio": "audio/c3.mp3",
+   "kmaudio": "audio/km03.mp3"
+  },
+  {
+   "sec": "name",
+   "img": "img/c3-name.svg",
+   "flat": true,
+   "alt": "A name tag with the character 叫",
+   "hook": "我叫…",
+   "ko": "我叫 + 名字：我叫 Dara。",
+   "en": "'My name is …' — literally 'I am-called Dara'. Put your name right after 叫.",
+   "km": "ខ្ញុំ ឈ្មោះ តារា។",
+   "audio": "audio/c4.mp3",
+   "kmaudio": "audio/km04.mp3"
+  },
+  {
+   "sec": "name",
+   "img": "img/c4-ask.svg",
+   "flat": true,
+   "alt": "A question bubble with a name tag inside",
+   "hook": "你叫什么名字？",
+   "ko": "请问，你叫什么名字？Qǐng wèn…",
+   "en": "'May I ask your name?' — start with 请问 to sound polite.",
+   "km": "សុំ ទោស តើ អ្នក ឈ្មោះ អ្វី?",
+   "audio": "audio/c5.mp3",
+   "kmaudio": "audio/km05.mp3"
+  },
+  {
+   "sec": "reply",
+   "img": "img/c5-fine.svg",
+   "flat": true,
+   "alt": "A thumbs-up over a smiley face",
+   "hook": "我很好",
+   "ko": "我很好，谢谢。Wǒ hěn hǎo, xiè xie.",
+   "en": "I'm very well, thank you — the standard bright answer.",
+   "km": "ខ្ញុំ សុខសប្បាយ អរគុណ។",
+   "audio": "audio/c6.mp3",
+   "kmaudio": "audio/km06.mp3"
+  },
+  {
+   "sec": "reply",
+   "img": "img/c6-meet.svg",
+   "flat": true,
+   "alt": "Two hands meeting over a small heart",
+   "hook": "很高兴认识你",
+   "ko": "很高兴认识你！Hěn gāoxìng rènshi nǐ.",
+   "en": "Nice to meet you! Say it right after names are exchanged.",
+   "km": "រីករាយ ដែល បាន ស្គាល់ គ្នា!",
+   "audio": "audio/c7.mp3",
+   "kmaudio": "audio/km07.mp3"
+  },
+  {
+   "sec": "bye",
+   "img": "img/c7-bye.svg",
+   "flat": true,
+   "alt": "A waving hand",
+   "hook": "再见",
+   "ko": "再见！Zàijiàn — 或者更自然：明天见！",
+   "en": "Goodbye! Even more natural with people you'll see again: 'See you tomorrow'.",
+   "km": "លា ហើយ! ឬ៖ ជួប គ្នា សែក!",
+   "audio": "audio/c8.mp3",
+   "kmaudio": "audio/km08.mp3"
+  },
+  {
+   "sec": "polite",
+   "img": "img/c8-please.svg",
+   "flat": true,
+   "alt": "A teapot pouring a cup with the character 请",
+   "hook": "请",
+   "ko": "请坐，请喝茶，请先走 — 一个“请”走遍中国。",
+   "en": "Please sit, please have tea, after you — one 请 softens everything.",
+   "km": "សូម អង្គុយ សូម ផឹក តែ សូម ទៅ មុន។",
+   "audio": "audio/c9.mp3",
+   "kmaudio": "audio/km09.mp3"
+  },
+  {
+   "sec": "polite",
+   "img": "img/c9-thanks.svg",
+   "flat": true,
+   "alt": "Two pressed hands over a heart for thank you",
+   "hook": "谢谢 · 不客气",
+   "ko": "别人帮你：谢谢！他说：不客气。",
+   "en": "Someone helps: xiè xie (thank you). The reply is 不客气 — 'you're welcome'.",
+   "km": "អរគុណ! ចម្លើយ៖ មិន អី ទេ។",
+   "audio": "audio/c10.mp3",
+   "kmaudio": "audio/km10.mp3"
+  }
+ ],
+ "qa_note": "Recall the answer in your head first, then tap to check and listen.",
+ "qa": [
+  {
+   "title": "Traps · read these first",
+   "small": "What learners get wrong",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "什么时候用“您”？",
+     "qen": "When do I use the polite 您?",
+     "qaudio": "audio/q1.mp3",
+     "a": "长辈、老师、客户、第一次见的客人。朋友用你。",
+     "aen": "Elders, teachers, customers, guests you just met. With friends, plain 你.",
+     "akm": "មនុស្សចាស់ គ្រូ អតិថិជន។ ជាមួយ មិត្ត ប្រើ nǐ។",
+     "why": "One syllable buys you real goodwill. When unsure, 您 is the safer mistake.",
+     "audio": "audio/a1.mp3",
+     "kaudio": "audio/km11.mp3"
+    },
+    {
+     "q": "“吃了吗？”是要请我吃饭吗？",
+     "qen": "Is 'Have you eaten?' an invitation to dinner?",
+     "qaudio": "audio/q2.mp3",
+     "a": "不是，那只是打招呼。回答：吃了，你呢？",
+     "aen": "No — it's just a greeting among friends. Answer: 吃了，你呢? (Yes, and you?)",
+     "akm": "មិន មែន ទេ — នេះ គ្រាន់ តែ សំណូម ពរ ប៉ុណ្ណោះ។ ឆ្លើយ៖ បរិភោគ រួច ហើយ។",
+     "audio": "audio/a2.mp3",
+     "kaudio": "audio/km12.mp3"
+    },
+    {
+     "q": "打电话第一句说什么？",
+     "qen": "What do I say first on a phone call?",
+     "qaudio": "audio/q3.mp3",
+     "a": "电话里说“喂”（wéi），然后说自己是谁。",
+     "aen": "On the phone Chinese says 喂 (wéi), then your own name — not 你好.",
+     "akm": "ពេល ទូរស័ព្ទ គេ និយាយ wéi ហើយ ប្រាប់ ឈ្មោះ ខ្លួន។",
+     "why": "Textbooks teach 你好; real phones start with wéi. Knowing this instantly sounds natural.",
+     "audio": "audio/a3.mp3",
+     "kaudio": "audio/km13.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Real conversations",
+   "small": "What someone will actually ask you",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "你叫什么名字？",
+     "qen": "What's your name?",
+     "qaudio": "audio/q4.mp3",
+     "a": "我叫 Dara。你呢？",
+     "aen": "My name is Dara. And you?",
+     "akm": "ខ្ញុំ ឈ្មោះ តារា។ អ្នកវិញ?",
+     "audio": "audio/a4.mp3",
+     "kaudio": "audio/km14.mp3"
+    },
+    {
+     "q": "他是谁？",
+     "qen": "Who is he?",
+     "qaudio": "audio/q5.mp3",
+     "a": "他是我朋友，他叫 Sok。",
+     "aen": "He's my friend. His name is Sok.",
+     "akm": "គាត់ ជា មិត្ត ខ្ញុំ ឈ្មោះ សុខ។",
+     "audio": "audio/a5.mp3",
+     "kaudio": "audio/km15.mp3"
+    },
+    {
+     "q": "认识你很高兴。",
+     "qen": "Nice to meet you. (they say it first)",
+     "qaudio": "audio/q6.mp3",
+     "a": "我也很高兴认识你。",
+     "aen": "I'm also very glad to meet you.",
+     "akm": "ខ្ញុំ ក៏ រីករាយ ដែល បាន ស្គាល់ គ្នា ដែរ។",
+     "audio": "audio/a6.mp3",
+     "kaudio": "audio/km16.mp3"
+    }
+   ]
+  },
+  {
+   "title": "When you get stuck",
+   "small": "Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "你会说英语吗？",
+     "en": "Do you speak English?",
+     "km": "តើ អ្នក និយាយ ភាសា អង់គ្លេស ទេ?",
+     "audio": "audio/s1.mp3",
+     "kmaudio": "audio/km17.mp3"
+    },
+    {
+     "ko": "请再说一遍。",
+     "en": "Please say that again.",
+     "km": "សូម និយាយ ម្តង ទៀត។",
+     "audio": "audio/s2.mp3",
+     "kmaudio": "audio/km18.mp3"
+    },
+    {
+     "ko": "我先走了，再见！",
+     "en": "I have to go now — goodbye!",
+     "km": "ខ្ញុំ ត្រូវ ទៅ ហើយ លា ហើយ!",
+     "audio": "audio/s3.mp3",
+     "kmaudio": "audio/km19.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Patterns · sound Chinese from day one",
+   "small": "Three moves",
+   "kind": "gram",
+   "items": [
+    {
+     "q": "我叫 Dara。",
+     "qen": "Pattern: 我叫 + name — 'I am called …'",
+     "qaudio": "audio/g1.mp3",
+     "a": "他叫 Sok。她叫 Malis。",
+     "aen": "He's called Sok. She's called Malis.",
+     "akm": "គាត់ ឈ្មោះ សុខ។ នាង ឈ្មោះ មាលីស។",
+     "audio": "audio/ga1.mp3",
+     "kaudio": "audio/km20.mp3"
+    },
+    {
+     "q": "我是学生。",
+     "qen": "Pattern: 我是 + thing — 'I am a …' (no verb change)",
+     "qaudio": "audio/g2.mp3",
+     "a": "他是老师。我们是朋友。",
+     "aen": "He is a teacher. We are friends. 是 never conjugates.",
+     "akm": "គាត់ ជា គ្រូ។ យើង ជា មិត្ត។",
+     "audio": "audio/ga2.mp3",
+     "kaudio": "audio/km21.mp3"
+    },
+    {
+     "q": "你呢？",
+     "qen": "Pattern: X 呢? = 'And X?' — the fastest way to bounce a question back.",
+     "qaudio": "audio/g3.mp3",
+     "a": "我很好，你呢？——我也很好。",
+     "aen": "I'm well — and you? — I'm well too.",
+     "akm": "ខ្ញុំ សុខសប្បាយ អ្នកវិញ? — ខ្ញុំ ក៏ ដូចគ្នា។",
+     "audio": "audio/ga3.mp3",
+     "kaudio": "audio/km22.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "Greetings · the front door",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "你好 nǐ hǎo",
+     "en": "hello",
+     "km": "សួស្តី",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "您好 nín hǎo",
+     "en": "hello (respectful)",
+     "km": "ជម្រាបសួរ",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "早上好 zǎoshang hǎo",
+     "en": "good morning",
+     "km": "អរុណ សួស្តី",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "晚安 wǎn'ān",
+     "en": "good night",
+     "km": "រាត្រី សួស្តី",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "再见 zàijiàn",
+     "en": "goodbye",
+     "km": "លា ហើយ",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "明天见 míngtiān jiàn",
+     "en": "see you tomorrow",
+     "km": "ជួប គ្នា សែក",
+     "audio": "audio/v06.mp3"
+    }
+   ]
+  },
+  {
+   "title": "People · who is who",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "我 wǒ",
+     "en": "I, me",
+     "km": "ខ្ញុំ",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "你 nǐ",
+     "en": "you",
+     "km": "អ្នក",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "您 nín",
+     "en": "you (respectful)",
+     "km": "ท่าน / អ្នក (គោរព)",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "他 tā",
+     "en": "he, him",
+     "km": "គាត់ (ប្រុស)",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "她 tā",
+     "en": "she, her",
+     "km": "នាង",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "朋友 péngyou",
+     "en": "friend",
+     "km": "មិត្តភក្តិ",
+     "audio": "audio/v12.mp3"
+    },
+    {
+     "ko": "老师 lǎoshī",
+     "en": "teacher",
+     "km": "គ្រូ",
+     "audio": "audio/v13.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Words that run the conversation",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "叫 jiào",
+     "en": "to be called",
+     "km": "ឈ្មោះ",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "是 shì",
+     "en": "to be",
+     "km": "មែន / ជា",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "什么 shénme",
+     "en": "what",
+     "km": "អ្វី",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "谁 shéi",
+     "en": "who",
+     "km": "ใคร (នរណា)",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "请 qǐng",
+     "en": "please",
+     "km": "សូម",
+     "audio": "audio/v18.mp3"
+    },
+    {
+     "ko": "谢谢 xiè xie",
+     "en": "thank you",
+     "km": "អរគុណ",
+     "audio": "audio/v19.mp3"
+    },
+    {
+     "ko": "不客气 bú kèqi",
+     "en": "you're welcome",
+     "km": "មិន អី ទេ",
+     "audio": "audio/v20.mp3"
+    },
+    {
+     "ko": "对不起 duìbuqǐ",
+     "en": "sorry",
+     "km": "សុំ ទោស",
+     "audio": "audio/v21.mp3"
+    },
+    {
+     "ko": "没关系 méi guānxi",
+     "en": "it's OK, no problem",
+     "km": "មិន ជា បាប ទេ",
+     "audio": "audio/v22.mp3"
+    }
+   ]
+  }
+ ],
+ "full_title": "The text · one first meeting, start to finish",
+ "credit": "Phrases follow HSK-1 / Yoyo Chinese Beginner Courses Glossary (cdn.yoyochinese.com, verified 2026-11-09). Khmer support checked against the Wikivoyage Khmer phrasebook.",
+ "published": "2026-11-10",
+ "full": [
+  {
+   "title": "见面 · Saying hello",
+   "ko": "你好！Nǐ hǎo — 最常用的打招呼。 对长辈、客户说：您好！Nín hǎo。 你好吗？Nǐ hǎo ma — 问别人怎么样。",
+   "en": "Hello! Works with almost anyone, anywhere. Say 您好 (nín hǎo) to elders, teachers and customers — it carries respect. How are you? A real question, but friends often skip it."
+  },
+  {
+   "title": "名字 · Names",
+   "ko": "我叫 + 名字：我叫 Dara。 请问，你叫什么名字？Qǐng wèn…",
+   "en": "'My name is …' — literally 'I am-called Dara'. Put your name right after 叫. 'May I ask your name?' — start with 请问 to sound polite."
+  },
+  {
+   "title": "回答 · Answering",
+   "ko": "我很好，谢谢。Wǒ hěn hǎo, xiè xie. 很高兴认识你！Hěn gāoxìng rènshi nǐ.",
+   "en": "I'm very well, thank you — the standard bright answer. Nice to meet you! Say it right after names are exchanged."
+  },
+  {
+   "title": "再见 · Saying goodbye",
+   "ko": "再见！Zàijiàn — 或者更自然：明天见！",
+   "en": "Goodbye! Even more natural with people you'll see again: 'See you tomorrow'."
+  },
+  {
+   "title": "礼貌 · Being polite",
+   "ko": "请坐，请喝茶，请先走 — 一个“请”走遍中国。 别人帮你：谢谢！他说：不客气。",
+   "en": "Please sit, please have tea, after you — one 请 softens everything. Someone helps: xiè xie (thank you). The reply is 不客气 — 'you're welcome'."
+  }
+ ]
+}
